@@ -6,7 +6,7 @@ const TweetQuote = ({ quote }) => {
         target="_blank"
         rel="noreferrer"
       >
-        Tweet
+        Tweet!
       </a>
     </button>
   );
